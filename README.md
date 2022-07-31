@@ -5,4 +5,5 @@
 Analytics Vidhya presents “JOB-A-THON” - India's Largest Data Science Hiring Event 10th Edition, where 60,000+ candidates have participated for job roles in over 100+ companies.
 
 # How does JOB-A-THON work?
-![Job-A-Thon-2022-Works](https://user-images.githubusercontent.com/84449238/179400517-c585b5f5-0706-45c1-9813-f3a5c96826ea.JPG)
+![AV-Image-31072022](https://user-images.githubusercontent.com/84449238/182031346-653fd336-361c-4d2a-91b6-6941c5f57171.JPG)
+
