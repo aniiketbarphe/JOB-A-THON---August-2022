@@ -1,4 +1,4 @@
-![Job-A-Thon-2022-Intro](https://user-images.githubusercontent.com/84449238/179400473-36e09dcd-5797-4708-9902-096f79cfac83.JPG)
+![INTRO](https://user-images.githubusercontent.com/84449238/182936181-b1dc651b-3bdc-4a49-b6c3-c337668ba4ed.JPG)
 # Predict Click Through Rate (CTR) of an Email Campaign
 
 # About:-
