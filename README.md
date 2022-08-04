@@ -26,7 +26,31 @@ What should be the length of the email?
 Do you need images in your email template?
 
 As a part of the Data Science team, in this hackathon, you will build a smart system to predict the CTR for email campaigns and therefore identify the critical factors that will help the marketing team to maximize the CTR.
+Objective
 
+
+Your task at hand is to build a machine learning-based approach to predict the CTR of an email campaign.
+
+
+
+About the Dataset
+
+
+You are provided with the information of past email campaigns containing the email attributes like subject and body length, no. of CTA, date and time of an email, type of the audience, whether its a personalized email or not, etc and the target variable indicating the CTR of the email campaign.
+
+
+
+Data Dictionary
+
+
+You are provided with 3 files - train.csv, test.csv and sample_submission.csv
+
+
+
+Train and Test Set
+
+
+Train and Test set contains different sets of email campaigns containing information about the email campaign. Train set includes the target variable click_rate and you need to predict the click_rate of an email campaign in the test set.
 
 
 # How does JOB-A-THON work?
