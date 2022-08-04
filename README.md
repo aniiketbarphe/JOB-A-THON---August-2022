@@ -52,7 +52,15 @@ Train and Test Set
 
 Train and Test set contains different sets of email campaigns containing information about the email campaign. Train set includes the target variable click_rate and you need to predict the click_rate of an email campaign in the test set.
 
+![IMAGE1](https://user-images.githubusercontent.com/84449238/182934341-95f5c2f5-24ee-4c6c-be8f-8b37ad89da3c.JPG)
 
+![IMAGE2](https://user-images.githubusercontent.com/84449238/182934368-bf1b63a6-c4c0-45c0-b2a8-84706e0e0fdb.JPG)
+
+
+Submission File Format
+
+
+sample_submission.csv contains 2 variables - campaign id and click_rate
 # How does JOB-A-THON work?
 ![AV-Image-31072022](https://user-images.githubusercontent.com/84449238/182031346-653fd336-361c-4d2a-91b6-6941c5f57171.JPG)
 
