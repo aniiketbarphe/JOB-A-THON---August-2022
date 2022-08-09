@@ -1,7 +1,7 @@
 ![INTRO](https://user-images.githubusercontent.com/84449238/182936181-b1dc651b-3bdc-4a49-b6c3-c337668ba4ed.JPG)
 # Predict Click Through Rate (CTR) of an Email Campaign
 
-**1)Problem Statement:-**
+**1) Problem Statement:-**
 
 
 Most organizations today rely on email campaigns for effective communication with users. Email communication is one of the popular ways to pitch products to users and build trustworthy relationships with them.
@@ -37,16 +37,11 @@ Your task at hand is to build a machine learning-based approach to predict the C
 
 You are provided with the information of past email campaigns containing the email attributes like subject and body length, no. of CTA, date and time of an email, type of the audience, whether its a personalized email or not, etc and the target variable indicating the CTR of the email campaign.
 
-
-
-Data Dictionary
-
+**2.1) Data Dictionary:-**
 
 You are provided with 3 files - train.csv, test.csv and sample_submission.csv
 
-
-
-Train and Test Set
+**2.1.1) Train and Test Set:-**
 
 
 Train and Test set contains different sets of email campaigns containing information about the email campaign. Train set includes the target variable click_rate and you need to predict the click_rate of an email campaign in the test set.
