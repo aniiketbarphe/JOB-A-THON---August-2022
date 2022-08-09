@@ -62,6 +62,21 @@ The evaluation metric for this hackathon would be r2_score.
 
 Test data is further divided into Public (40%) and Private (60%) data. Your initial responses will be checked and scored on the Public data. The final rankings would be based on your private score which will be published once the competition is over.
 
+# Summary
+**a) Best Submission Score:-**
+
+1) Private Leaderboard :- 0.5632066877
+
+2) Public Leaderboard :- 0.7080727117
+
+**b) Best Model: Histogram Gradient Boosting Regression Model
+
+![Aniiket-Barphe-Rank](https://user-images.githubusercontent.com/84449238/183632342-f5be4dd6-7dde-4ef8-94ad-63873b8414da.JPG)
+
+Competition Link:  https://datahack.analyticsvidhya.com/contest/job-a-thon-august-2022/#LeaderBoard
+
+Rank Scored: 12 out of 8235 Registered Participants!
+
 # How does JOB-A-THON work?
 ![AV-Image-31072022](https://user-images.githubusercontent.com/84449238/182031346-653fd336-361c-4d2a-91b6-6941c5f57171.JPG)
 
