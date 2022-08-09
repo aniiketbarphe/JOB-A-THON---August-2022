@@ -1,7 +1,7 @@
 ![INTRO](https://user-images.githubusercontent.com/84449238/182936181-b1dc651b-3bdc-4a49-b6c3-c337668ba4ed.JPG)
 # Predict Click Through Rate (CTR) of an Email Campaign
 
-*1)Problem Statement:-*
+**1)Problem Statement:-**
 
 
 Most organizations today rely on email campaigns for effective communication with users. Email communication is one of the popular ways to pitch products to users and build trustworthy relationships with them.
