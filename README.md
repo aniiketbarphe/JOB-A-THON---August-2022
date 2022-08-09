@@ -52,6 +52,7 @@ Train and Test set contains different sets of email campaigns containing informa
 
 **2.1.2) Submission File Format**
 
+sample_submission.csv contains 2 variables - campaign id and click_rate
 ![IMAGE3](https://user-images.githubusercontent.com/84449238/182934572-bda14b09-0cb7-4be4-a67d-7e0875af13a4.JPG)
 
 **3) Evaluation metric:-**
@@ -63,7 +64,7 @@ Public and Private Split
 
 Test data is further divided into Public (40%) and Private (60%) data. Your initial responses will be checked and scored on the Public data. The final rankings would be based on your private score which will be published once the competition is over.
 
-sample_submission.csv contains 2 variables - campaign id and click_rate
+
 # How does JOB-A-THON work?
 ![AV-Image-31072022](https://user-images.githubusercontent.com/84449238/182031346-653fd336-361c-4d2a-91b6-6941c5f57171.JPG)
 
