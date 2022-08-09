@@ -50,8 +50,7 @@ Train and Test set contains different sets of email campaigns containing informa
 
 ![IMAGE2](https://user-images.githubusercontent.com/84449238/182934368-bf1b63a6-c4c0-45c0-b2a8-84706e0e0fdb.JPG)
 
-
-Submission File Format
+**2.1.2) Submission File Format**
 
 ![IMAGE3](https://user-images.githubusercontent.com/84449238/182934572-bda14b09-0cb7-4be4-a67d-7e0875af13a4.JPG)
 
