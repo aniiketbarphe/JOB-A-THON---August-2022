@@ -69,7 +69,7 @@ Test data is further divided into Public (40%) and Private (60%) data. Your init
 
 2) Public Leaderboard :- 0.7080727117
 
-**b) Best Model: Histogram Gradient Boosting Regression Model
+**b) Best Model: Histogram Gradient Boosting Regression Model**
 
 ![Aniiket-Barphe-Rank](https://user-images.githubusercontent.com/84449238/183632342-f5be4dd6-7dde-4ef8-94ad-63873b8414da.JPG)
 
