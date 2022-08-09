@@ -54,8 +54,7 @@ Train and Test set contains different sets of email campaigns containing informa
 
 ![IMAGE3](https://user-images.githubusercontent.com/84449238/182934572-bda14b09-0cb7-4be4-a67d-7e0875af13a4.JPG)
 
-Evaluation metric
-
+**3) Evaluation metric:-**
 The evaluation metric for this hackathon would be r2_score.
 
 
