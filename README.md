@@ -32,7 +32,7 @@ Your task at hand is to build a machine learning-based approach to predict the C
 
 
 
-About the Dataset
+**2) About the Dataset:-**
 
 
 You are provided with the information of past email campaigns containing the email attributes like subject and body length, no. of CTA, date and time of an email, type of the audience, whether its a personalized email or not, etc and the target variable indicating the CTR of the email campaign.
